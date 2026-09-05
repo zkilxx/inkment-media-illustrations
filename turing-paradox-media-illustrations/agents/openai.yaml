@@ -1,0 +1,4 @@
+interface:
+  display_name: "图灵悖论自媒体插图"
+  short_description: "用墨非 11 种风格制作封面、插图及微信贴图号/小红书图片流"
+  default_prompt: "使用 $turing-paradox-media-illustrations 为我的文章制作封面、文章插图，或用于微信贴图号、小红书的连续信息贴图。"
